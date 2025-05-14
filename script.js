@@ -1,9 +1,9 @@
 const answers = [
-    { text: "Ответ 1: ответ не найден", images: ["images/1.jpg"], copy: "ответ не найден" },
+    { text: "Ответ 1: ответ не 100%", images: ["images/1.jpg"], copy: "25; 134" },
     { text: "Ответ 2: ", images: ["images/2.png"], copy: "25, 134" },
-    { text: "Ответ 3: ответа нет", images: ["images/3.jpg"], copy: "нет" },
-    { text: "Ответ 4: ответа нет", images: ["images/4.jpg"], copy: "нет" },
-    { text: "Ответ 5: ответа нет", images: ["images/5.jpg"], copy: "нет" },
+    { text: "Ответ 3: ответ не 100%", images: ["images/3.jpg"], copy: "1245; 124" },
+    { text: "Ответ 4: ответ не 100%", images: ["images/4.jpg"], copy: "145; 5" },
+    { text: "Ответ 5: ответ не 100%", images: ["images/5.jpg"], copy: "235; 2" },
     { text: "Ответ 6: ", images: ["images/6.png"], copy: "25; 25" },
     { text: "Ответ 7: ", images: ["images/7.png"], copy: "534" },
     { text: "Ответ 8:  ", images: ["images/8.png"], copy: "1234579" },
